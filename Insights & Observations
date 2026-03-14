@@ -1,0 +1,25 @@
+Superstore Sales Analysis – Key Insights
+
+After analyzing the sales data and building the dashboard, the following key insights were observed:
+1. Revenue Performance
+  •	Total revenue generated between 2015 and 2018 was approximately $2.25M.
+  •	The dataset contains 4,916 orders from 793 customers.
+2. Regional Performance
+  •	The West region generated the highest revenue, followed by the East region.
+  •	Central and South regions generated comparatively lower sales.
+3. Category Performance
+  •	The Technology category generated the highest sales.
+  •	Furniture and Office Supplies contributed slightly lower but still significant revenue.
+4. Sub-Category Performance
+  •	Phones and Chairs are among the highest-performing sub-categories.
+  •	These product groups contribute a large portion of the overall revenue.
+5. Customer Segments
+  •	The Consumer segment contributes over 50% of total revenue, making it the most important customer group.
+  •	Corporate and Home Office segments contribute smaller but still meaningful portions.
+6. Shipping Analysis
+  •	Standard Class shipping is used most frequently by customers.
+  •	Same Day shipping is used very rarely.
+7. Overall Trend
+  •	Sales generally increased over the years, indicating overall business growth
+
+These insights can help business stakeholders focus on high-performing regions, products, and customer segments to improve overall sales performance.
