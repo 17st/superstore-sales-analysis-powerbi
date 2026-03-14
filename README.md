@@ -13,14 +13,15 @@ The analysis was performed using SQL for data exploration and Power BI for build
 
 ## Project Structure
 
-superstore-sales-analysis
-│
+```superstore-sales-analysis
+|
 ├── README.md
 ├── superstore_dashboard.pbix
 ├── dashboard.png
 ├── problem_statement.pdf
 ├── insights_observations.pdf
 └── dataset.csv
+```
 
 ## Key Analysis
 The project focuses on answering important business questions such as:
