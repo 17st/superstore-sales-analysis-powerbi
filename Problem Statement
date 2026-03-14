@@ -1,0 +1,17 @@
+Title: Superstore Sales Performance Analysis (2015–2018)
+
+Problem Statement:
+Retail companies generate a large amount of sales data, but without proper analysis it becomes difficult to understand what drives revenue and business performance. 
+The goal of this project is to analyze the Superstore sales dataset from 2015 to 2018 and identify key insights that can help understand sales performance across regions, products, customers and shipping methods.
+
+This project focuses on transforming raw sales data into meaningful insights by performing data analysis and building an interactive dashboard.
+
+Using SQL for analysis and Power BI for visualization, the analysis aims to answer the following business questions:
+•	How has the company’s revenue changed over time?
+•	Which product categories and sub-categories generate the most sales?
+•	Which regions contribute the highest revenue?
+•	Which products are the top revenue drivers?
+•	Which customer segments contribute the most to overall sales?
+•	What shipping methods are used most frequently?
+
+This project demonstrates how data can be used to support business decisions and understand sales performance.
