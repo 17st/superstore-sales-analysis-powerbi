@@ -1,25 +1,26 @@
 Superstore Sales Analysis – Key Insights
 
 After analyzing the sales data and building the dashboard, the following key insights were observed:
-1. Revenue Performance
+1. Overall Sales Performance
   •	Total revenue generated between 2015 and 2018 was approximately $2.25M.
-  •	The dataset contains 4,916 orders from 793 customers.
+  •	The dataset contains 4,916 orders from 793 unique customers.
+  • The company achieved 21% sales growth in the most recent year, indicating positive business momentum.
 2. Regional Performance
-  •	The West region generated the highest revenue, followed by the East region.
+  •	The West region generated the highest revenue(~$0.71M), followed by the East region(~$0.66M).
   •	Central and South regions generated comparatively lower sales.
 3. Category Performance
-  •	The Technology category generated the highest sales.
+  •	Technology is the highest performing category, generating about $0.83M.
   •	Furniture and Office Supplies contributed slightly lower but still significant revenue.
 4. Sub-Category Performance
   •	Phones and Chairs are among the highest-performing sub-categories.
   •	These product groups contribute a large portion of the overall revenue.
-5. Customer Segments
+5. Product Performance
+  •	A small number of products contribute a significant portion of revenue.
+  •	The Canon ImageCLASS printer is the top-selling product among all products.
+5. Customer Segment Contribution
   •	The Consumer segment contributes over 50% of total revenue, making it the most important customer group.
   •	Corporate and Home Office segments contribute smaller but still meaningful portions.
-6. Shipping Analysis
-  •	Standard Class shipping is used most frequently by customers.
-  •	Same Day shipping is used very rarely.
-7. Overall Trend
+6. Overall Trend
   •	Sales generally increased over the years, indicating overall business growth
 
 These insights can help business stakeholders focus on high-performing regions, products, and customer segments to improve overall sales performance.
