@@ -8,10 +8,11 @@ This project focuses on transforming raw sales data into meaningful insights by 
 
 Using SQL for analysis and Power BI for visualization, the analysis aims to answer the following business questions:
 •	How has the company’s revenue changed over time?
+• What is the overall business growth during the analysis period?
 •	Which product categories and sub-categories generate the most sales?
 •	Which regions contribute the highest revenue?
 •	Which products are the top revenue drivers?
-•	Which customer segments contribute the most to overall sales?
-•	What shipping methods are used most frequently?
+•	How do different customer segments contribute to sales??
+•	Which shipping modes are most frequently used by customers?
 
 This project demonstrates how data can be used to support business decisions and understand sales performance.
