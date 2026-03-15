@@ -26,31 +26,30 @@ The analysis was performed using SQL for data exploration and Power BI for build
 ## Key Analysis
 The project focuses on answering important business questions such as:
 
-- How revenue has changed over time
-- Which regions generate the highest sales
-- Which product categories and sub-categories perform best
-- Which products drive the most revenue
-- How different customer segments contribute to total sales
-- Which shipping methods are used most frequently
+- How revenue has changed over time?
+- What is the overall business growth during the analysis period?
+- Which regions generate the highest sales?
+- Which product categories and sub-categories perform best?
+- Which products drive the most revenue?
+- How different customer segments contribute to total sales?
 
 ## Dashboard Features
 The Power BI dashboard includes:
 
-- KPI metrics (Total Revenue, Orders, Customers, Average Order Value)
-- Sales trend over time
+- KPI metrics (Total Revenue, Orders, Customers, Average Order Value, Revenue Growth (YoY))
+- Monthly Sales Trend over time
 - Sales by category
 - Sales by region
 - Top 5 products by revenue
 - Top sub-categories by revenue
 - Customer segment contribution
-- Shipping mode analysis
 - Region vs category revenue comparison
 
 ## Key Insights
 - The West region generates the highest revenue.
 - Technology is the highest-performing product category.
 - The Consumer segment contributes the largest share of sales.
-- Standard Class is the most frequently used shipping method.
+- The Canon ImageCLASS printer is the top revenue-generating product.
 
 ## Dataset
 The dataset used in this project is the Superstore dataset obtained from Kaggle, a widely used dataset for practicing data analysis and business intelligence.
