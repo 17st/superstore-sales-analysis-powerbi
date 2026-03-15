@@ -34,6 +34,9 @@ The project focuses on answering important business questions such as:
 - How different customer segments contribute to total sales?
 
 ## Dashboard Features
+Download the interactive Power BI dashboard to explore the report locally:
+[Download Power BI Dashboard](Superstore.pbix)
+
 The Power BI dashboard includes:
 
 - KPI metrics (Total Revenue, Orders, Customers, Average Order Value, Revenue Growth (YoY))
