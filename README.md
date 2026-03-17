@@ -16,12 +16,12 @@ The analysis was performed using SQL for data exploration and Power BI for build
 ```superstore-sales-analysis
 |
 ├── Dashboard.png
+├── Dataset.csv
 ├── Insights & Observations
 ├── Problem Statement
 ├── README.md
 ├── Superstore.pbix
-├── superstore_analysis_queries.sql
-└── dataset.csv
+└── superstore_analysis_queries.sql
 ```
 
 ## Key Analysis
